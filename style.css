@@ -1,0 +1,15 @@
+.ShinyKip{
+    display:flex;
+    font-weight: bolder;
+    
+}
+
+body{
+    background: blanchedalmond;
+    justify-content: center;
+}
+
+.Wooper{
+    display:flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
